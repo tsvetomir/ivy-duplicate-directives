@@ -20,7 +20,6 @@
     "@angular/platform-browser-dynamic": "~8.1.0-rc.0",
     "@angular/router": "~8.1.0-rc.0",
     "legacy-lib": "file:../tarballs/legacy-lib-1.0.0.tgz",
-    "lib1": "file:../tarballs/lib1-1.0.0.tgz",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
